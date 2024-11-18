@@ -1,4 +1,3 @@
-# fifa-worldcup
 Soccer Match Analysis and Prediction
 This project analyzes soccer matches, predicts outcomes using machine learning, and extracts insights such as team rankings, clustering, and community detection from match data.
 
